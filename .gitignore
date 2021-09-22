@@ -1,0 +1,4 @@
+*.yml
+Dockerfile
+*.json
+.DS_Store
